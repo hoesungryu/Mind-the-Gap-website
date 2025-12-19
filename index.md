@@ -9,7 +9,6 @@ authors:
 affiliations:
     Department of Artificial Intelligence, Korea University, Seoul, Korea$^{1}$<br>
     Department of Brain and Cognitive Engineering, Korea University , Seoul, Korea$^{2}$<br>
-    Department of Information Display, Kyung Hee University, Seoul, Korea$^{3}$
 # poster: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/hoesungryu/Mind-the-Gap
