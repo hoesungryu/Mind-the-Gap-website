@@ -35,14 +35,14 @@ body {
   max-height: parent;
 
 }
-
-.publication-banner video {
-  position: relative;
-  left: auto;
-  top: auto;
-  transform: none;
-  object-fit: fit;
-}
+/* Website template borrowed from NeRFies and the Jekyll fork. */
+/* .publication-banner video { */
+  /* position: relative; */
+  /* left: auto; */
+  /* top: auto; */
+  /* transform: none; */
+  /* object-fit: fit; */
+/* } */
 
 .publication-header .hero-body {
 }
